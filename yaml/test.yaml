@@ -13,20 +13,20 @@ scripts:
     sentences:
     - image: http://img.teamkn.com/i/InsXtIC0.png@150w.png
       delay: 800
-    - text: “这是新的 iPhone 6。”
+    - text: 这是新的 iPhone 6。
       delay: 400
 
   - npc: jwu
     sentences:
     - image: http://img.teamkn.com/i/xLUOcDQV.png@200w.png
       delay: 400
-    - text: “这是新的 iPhone 6 Plus。”
+    - text: 这是新的 iPhone 6 Plus。
     clear: false
 
   # 强调尺寸变大
   - npc: jwen
     sentences:
-    - text: “他们是有史以来最大的 iPhone。”
+    - text: 他们是有史以来最大的 iPhone。
       delay: 0
     - text: 　
       delay: 600
@@ -35,7 +35,7 @@ scripts:
 
   - npc: jwu
     sentences:
-    - text: “可以说，
+    - text: 可以说，
       linebreak: false
       delay: 400
     - text: 巨大~
@@ -44,13 +44,13 @@ scripts:
         font-weight: bold
       linebreak: false
       delay: 0
-    - text: ”　　
+    - text: 　　
     clear: false
 
   # 欲扬先抑
   - npc: jwen
     sentences:
-    - text: “尺寸的变大只是开始。”
+    - text: 尺寸的变大只是开始。
       delay: 0
     - text: 　　
       delay: 500
@@ -58,13 +58,13 @@ scripts:
       delay: 800
   - npc: jwu
     sentences:
-    - text: “怎么说也是大呀！”
+    - text: 怎么说也是大呀！
     clear: false
 
   # 介绍 Google Earth
   - npc: jwen
     sentences:
-    - text: “他们能让你看到不一样的世界！”
+    - text: 他们能让你看到不一样的世界！
       delay: 0
     - text: 　　
       delay: 500
@@ -72,13 +72,13 @@ scripts:
       delay: 500
   - npc: jwu
     sentences:
-    - text: “那是大事儿。”
+    - text: 那是大事儿。
     clear: false
 
   # 介绍 iFit
   - npc: jwen
     sentences:
-    - text: “还能为你的健康着想。”
+    - text: 还能为你的健康着想。
       delay: 0
     - text: 　　
       delay: 500
@@ -86,7 +86,7 @@ scripts:
       delay: 500
   - npc: jwu
     sentences:
-    - text: “
+    - text: 
       linebreak: false
       delay: 0
     - text: 特大
@@ -95,20 +95,20 @@ scripts:
         font-weight: bold
       linebreak: false
       delay: 0
-    - text: 的事！”　　
+    - text: 的事！　　
     　linebreak: false
     clear: false
 
   - npc: jwen
     sentences:
-    - text: “他们比以前所有的 iPhone 都要好！”
+    - text: 他们比以前所有的 iPhone 都要好！
       delay: 500
   - npc: jwu
     sentences:
     - image: http://img.teamkn.com/i/RDeUjRFu.png@200w.png
       linebreak: false
       delay: 800
-    - text: “大-
+    - text: 大-
       style:
         font-size: 140%
         font-weight: bold
@@ -126,7 +126,7 @@ scripts:
     - text: 大-大-大-大-
       linebreak: false
       delay: 100
-    - text: 大……”　　
+    - text: 大……　　
       linebreak: false
       style:
         font-weight: bold
@@ -134,7 +134,7 @@ scripts:
     clear: false
   - npc: jwen
     sentences:
-    - text: “嘿！
+    - text: 嘿！
       linebreak: false
       delay: 0
     - text: 停-
@@ -154,7 +154,7 @@ scripts:
       style:
         font-size: 140%
         font-weight: bold
-    - text: ——有这么说的吗？”　　
+    - text: ——有这么说的吗？　　
       linebreak: false
     clear: false
 
