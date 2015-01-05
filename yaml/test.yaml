@@ -104,7 +104,7 @@ scripts:
       delay: 500
   - npc: jwu
     sentences:
-    - image: http://img.teamkn.com/i/RDeUjRFu.png@200w.png
+    - image: http://img.teamkn.com/i/RDeUjRFu.png@300w.png
       linebreak: false
       delay: 800
     - text: 　
