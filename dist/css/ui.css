@@ -209,7 +209,7 @@ body {
           text-decoration: none;
           border-bottom: dashed 1px; }
         .panel.chatbox .chatpop .area .pop img.img {
-          display: block !important; }
+          display: block !important; max-width: 100%; }
       .panel.chatbox .chatpop .area .click-to-continue {
         float: left;
         color: #999;
