@@ -30,7 +30,7 @@ scripts:
   # 强调尺寸变大
   - npc: jwen
     sentences:
-    - text: 他们是有史以来最大的 iPhone。
+    - text: 它们是有史以来最大的 iPhone。
       delay: 0
     - text: 　
       delay: 600
@@ -100,7 +100,7 @@ scripts:
 
   - npc: jwen
     sentences:
-    - text: 他们比以前所有的 iPhone 都要好！
+    - text: 它们比以前所有的 iPhone 都要好！
       delay: 500
   - npc: jwu
     sentences:
